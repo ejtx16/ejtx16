@@ -15,7 +15,7 @@ Backend: Node.js, Express, REST API, GraphQL, MongoDB, PostgreSQL, Java Spring B
 
 ## Experience
 
-- 6 years of web development building scalable SPAs and Dynamic, and Hybrid apps with React and Angular
+- 6 years of web development building scalable SPAs, Dynamic, and Hybrid apps with React and Angular
 - 2 years developing hybrid mobile apps using Ionic/React + Capacitor and Cordova
 - Led and collaborate React web-to-mobile migrations maintaining 95%+ code reuse
 - Integrated EMF (Enterprise Mobile Framework) capacitor plugins for Push, Force Upgrade, and Biometrics
