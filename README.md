@@ -1,5 +1,5 @@
 # James Platino
-**ReactJS Developer |  Web/Mobile Developer**
+**ReactJS Developer |  Web/Hybrid Developer**
 
 " Your virtual dom is not doomed. It rerenders reality. " 
 
@@ -8,7 +8,7 @@
 ## Skills
 
 Frontend: React, TypeScript, Redux, React Query, Angular 17  
-Mobile: Ionic, Capacitor, Cordova, Push Notifications, Camera APIs, Geolocation   
+Mobile/Hybrid: Ionic, Capacitor, Cordova, Push Notifications, Camera APIs, Geolocation   
 Backend: Node.js, Express, REST API, GraphQL, MongoDB, PostgreSQL, Java Spring Boot
 
 ---
