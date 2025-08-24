@@ -1,9 +1,12 @@
-# James Platino
-**ReactJS Developer |  Web/Hybrid Developer**
+<!-- # James Platino -->
 
-" Your virtual dom is not doomed. It rerenders reality. " 
-
----
+<div align="center">
+  <div style="background: white; border: 2px solid #ecf2f8; border-radius: 4px; padding: 20px; margin: 20px 0; max-width: 100%;">
+    <h3 style="color: #000; margin: 0 0 15px 0; font-size: 24px; font-weight: bold;">James Platino</h3>
+    <p style="color: #666; margin: 0 0 15px 0; font-size: 16px;">ReactJS Developer | Web/Hybrid Developer</p>
+    <p style="color: #666; margin: 0 0 15px 0; font-size: 16px; font-style: italic;">"Your virtual DOM is not doomed. It rerenders reality."</p>
+  </div>
+</div>
 
 ## Skills
 
@@ -22,3 +25,5 @@ Backend: Node.js, Express, REST API, GraphQL, MongoDB, PostgreSQL, Java Spring B
 - Optimized app performance reducing load times by 40%
 - Full-stack experience with Node.js/Express/MongoDB/PostgreSQL
 - CI/CD pipelines implementation for web+mobile deployments using Jenkins, AWS EKS and AWS Lambda
+
+
