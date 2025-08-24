@@ -1,7 +1,7 @@
 <!-- # James Platino -->
 <div align="center">
   <div>
-    <h1>James Platino</h1>
+    <h3>James Platino</h3>
     <p>ReactJS Developer | Web/Hybrid Developer</p>
     <p><i>"Your virtual DOM is not doomed. It rerenders reality."</i></p>
   </div>
