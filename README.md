@@ -1,7 +1,7 @@
 <!-- # James Platino -->
 
 <div align="center">
-  <div style="background: white; border: 2px solid #ecf2f8; border-radius: 4px; padding: 20px; margin: 20px 0; max-width: 100%;">
+  <div style="background: #ecf2f8; border: 3px solid #ecf2f8; border-radius: 4px; padding: 20px; margin: 20px 0; max-width: 100%;">
     <h3 style="color: #000; margin: 0 0 15px 0; font-size: 24px; font-weight: bold;">James Platino</h3>
     <p style="color: #666; margin: 0 0 15px 0; font-size: 16px;">ReactJS Developer | Web/Hybrid Developer</p>
     <p style="color: #666; margin: 0 0 15px 0; font-size: 16px; font-style: italic;">"Your virtual DOM is not doomed. It rerenders reality."</p>
