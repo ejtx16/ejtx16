@@ -10,7 +10,7 @@
 ## Skills
 
 Frontend: React, TypeScript, Redux, React Query, Angular 17  
-Mobile/Hybrid: Ionic, Capacitor, Cordova, Push Notifications, Camera APIs, Geolocation   
+Mobile/Hybrid: Ionic, Capacitor, Cordova, Push Notifications, Biometrics, Camera APIs, Geolocation   
 Backend: Node.js, Express, REST API, GraphQL, MongoDB, PostgreSQL, Java Spring Boot
 
 ---
