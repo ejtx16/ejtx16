@@ -10,7 +10,7 @@
 ## Skills
 
 Frontend: HTML, CSS, JavaScript, React, Next.js, Angular, TypeScript
-Mobile/Hybrid: Ionic, Capacitor, Cordova, Push Notifications, Biometrics, Camera APIs, Geolocation   
+Mobile/Hybrid: Ionic, Capacitor, Cordova, Push Notifications, Biometrics
 Backend: Node.js, NestJS, PHP, Express, REST API, GraphQL, MongoDB, PostgreSQL, Java Spring Boot, Python
 
 ---
